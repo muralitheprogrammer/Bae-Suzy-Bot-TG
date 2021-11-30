@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/kalanakt/Bae-Suzy-Bot-TG",
-    "repository": "https://github.com/kalanakt/Bae-Suzy-Bot-TG",
+    "repository": "https://github.com/kalanakt/BBot-TG",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
