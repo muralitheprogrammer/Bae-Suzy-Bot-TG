@@ -1,15 +1,13 @@
-![bae-suzy-3](https://user-images.githubusercontent.com/86665964/139548397-929351de-7bc5-49f6-9910-88a881fd626f.jpg)
-<h1 align="center">
-  <b>Bae Suzy Bot</b>
+
 </h1>
 
 ## Note
 
-* This is Modified Verson Of [ Eva Maria Bot](https://github.com/EvamariaTG/EvaMaria)
+* Hi, this pro filter bot from (MW Bros)
 
 ## Success URL 
 
-**[Bae Suzy Bot TG](https://t.me/SpaciousUniverseBot)**
+**[PRO FILTER BOT TG](https://t.me/T5Links)**
 
 ## Features
 
@@ -97,7 +95,7 @@ python3 bot.py
 ```
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* go to marie bot management
 
 
 ## Thanks to 
