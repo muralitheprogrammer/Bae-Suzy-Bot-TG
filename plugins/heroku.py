@@ -1,4 +1,4 @@
-# HashMinner
+#MW Bros
 
 import os
 import math
