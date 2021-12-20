@@ -1,4 +1,4 @@
- 
+ #MW bros
  ​import​ ​os 
   
  ​import​ ​logging 
@@ -72,8 +72,7 @@
  ​            ​
  ​            ​InlineKeyboardButton​(​'🤖 Updates'​, ​url​=​'http://t.me/T5links'​) 
  ​            ],[ 
- ​            ​InlineKeyboardButton​(​'ℹ️ Help'​, ​callback_data​=​'help'​), 
- ​            ​InlineKeyboardButton​(​'😊 About'​, ​callback_data​=​'about'​) 
+ ​           
  ​        ]] 
  ​        ​reply_markup​ ​=​ ​InlineKeyboardMarkup​(​buttons​) 
  ​        ​await​ ​message​.​reply_photo​( 
