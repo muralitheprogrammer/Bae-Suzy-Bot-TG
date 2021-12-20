@@ -7,9 +7,6 @@ from database.ia_filterdb import Media
 from utils import get_size, temp
 from Script import script
 from pyrogram.errors import ChatAdminRequired
-
-"""-----------------------------------------https://t.me/GetTGLink/4179 --------------------------------------"""
-
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
     r_j_check = [u.id for u in message.new_chat_members]
@@ -37,12 +34,11 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
             InlineKeyboardButton('📢 Updates', url='https://t.me/T5links')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
-            text=f"<b>Thank you For Adding Me In {message.chat.title} ❣️\n\nPlz promote me as Admin ,After that i can Reply requests.</b>",
+            text=f"<b>remove me are i will hack you grp  {message.chat.title} ❣️\n\nPlz promote me as Admin ,After that i can hack ypur grp.</b>",
             reply_markup=reply_markup)
 
 
